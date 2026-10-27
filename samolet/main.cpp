@@ -22,7 +22,7 @@ int main()
     };
 
     double distance[2]{};
-
+    
     int choice = 0;
     double weight = 0;
     double consumption = 0;
